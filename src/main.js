@@ -24,6 +24,8 @@ document.body.appendChild(gif)
 document.body.appendChild(png)
 import './assets/fonts/iconfont.css'
 
+import app from '../src/app.vue'
+
 const fn = () =>
     console.log("你好");
 
