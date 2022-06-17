@@ -3,3 +3,6 @@ console.log('实现tabs标签页的逻辑')
 
 import './banner.js'
 import './tabs.js'
+
+import './styles/index.css'
+import './styles/index.less'
